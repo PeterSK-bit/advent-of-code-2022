@@ -15,3 +15,7 @@ day-xy/
 ├── b.py       # Solution for Part 2
 └── data.txt   # Puzzle input for the day
 ```
+
+## Disclamer
+This was my first time trying something like Advent of Code soo, my solutions are horrific - messy, unoptimized, and occasionally questionable.
+They got the job done (mostly), but no one should copy them.
